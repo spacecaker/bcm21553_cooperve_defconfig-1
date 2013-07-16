@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux kernel version: 2.6.35.7
-# Sat Jul 13 02:23:35 2013
+# Tue Jul 16 16:30:32 2013
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -956,7 +956,7 @@ CONFIG_MISC_FRESET=y
 # CONFIG_SENSORS_TOTORO is not set
 # CONFIG_SENSORS_LUISA is not set
 # CONFIG_SENSORS_TASSVE is not set
-# CONFIG_SENSORS_COOPERVE is not set
+CONFIG_SENSORS_COOPERVE=y
 # CONFIG_SENSORS_BMA222 is not set
 # CONFIG_SENSORS_GP2A is not set
 CONFIG_SENSORS_TAOS=y
